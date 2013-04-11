@@ -16,6 +16,6 @@
 
 
 ## Плдезные ссылки 
-*[шпарглака по гиту](http://eax.me/git-commands/)
-*[офицальная документация](http://git-scm.com/book/ru)
-*[Git Bash, вполне может заменить костировоный конол на винде ](http://git-scm.com/download)
+  *[шпарглака по гиту](http://eax.me/git-commands/)
+  *[офицальная документация](http://git-scm.com/book/ru)
+  *[Git Bash, вполне может заменить костировоный конол на винде ](http://git-scm.com/download)
